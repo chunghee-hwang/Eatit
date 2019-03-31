@@ -3,6 +3,7 @@ Unity 3D 엔진을 이용한 간단한 안드로이드 게임 애플리케이션
 현재 구글 플레이에 출시되어있으니 플레이 가능합니다.
 
 ## 미리보기
+사진을 클릭하면 유튜브 영상으로 넘어갑니다.
 [![Eat it! - Youtube video](https://img.youtube.com/vi/QYlfa8n_rF0/0.jpg)](https://youtu.be/QYlfa8n_rF0 "Eat it!")
 
 
