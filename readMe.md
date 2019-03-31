@@ -4,7 +4,7 @@ Unity 3D 엔진을 이용한 간단한 안드로이드 게임 애플리케이션
 
 ## Description
 
-<img src="https://github.com/hch0821/Eatit/blob/master/eatit.png" alt="Eat it" height="325" width="211">
+[![Eat it! - Youtube video](https://img.youtube.com/vi/QYlfa8n_rF0/0.jpg)](https://youtu.be/QYlfa8n_rF0 "Eat it!")
 
 * 프로젝트 인원 : 1명
 * 프로젝트 기간 : 2018.1 ~ 2018.2.10
