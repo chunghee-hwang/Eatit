@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="korean" ID="1">
+
+  <!--Menu Scene-->
+  <text key="app_name">Eat it!</text>
+  <text key="gameStart">게임 시작</text>
+  <text key="rate">게임 평가</text>
+  <text key="endGame">게임 종료</text>
+
+  <!--Character Scene-->
+  <text key="selectCharacter">캐릭터 선택</text>
+  <text key="characterInfo">캐릭터 정보</text>
+  <text key="favFood">좋아하는 음식: </text>
+  <text key="nameIs">이름: </text>
+  <text key="dislikeFood">싫어하는 음식: </text>
+  <text key="inputHint">이름 입력...</text>
+  <text key="gameTip">[팁] 동물 친구들이 좋아하는 음식만 먹이세요!</text>
+  <text key="gameOver">게임 오버</text>
+  <text key="gameTip2">게임을 시작하려면 캐릭터를 클릭하세요.</text>
+  <text key="kitty">냥냥이</text>
+  <text key="puppy">멍멍이</text>
+  <text key="piggy">채식주의똥돼지</text>
+  <text key="rabbit">토깽이</text>
+  <!--Game Scene-->
+  <text key="scoreIs">점수: </text>
+  <text key="highScoreIs">최고 점수: </text>
+  <text key="speedUp">레벨 : </text>
+  <text key="gamePaused">게임 중지됨</text>
+  <text key="controlSettings">조작 방법</text>
+  <text key="bgmOnOff">배경음악 켜기/끄기</text>
+  <text key="goToMainMenu">메인 메뉴로 돌아가기</text>
+  <text key="highScoreSync">최고 점수 동기화 완료</text>
+  <text key="resetApp">리더보드를 보려면 앱을 재시작해주세요.</text>
+  <text key="internet">인터넷이 연결되었는지 확인해주세요.</text>
+  <text key="signinFailed">죄송합니다. 구글 플레이 게임 서비스에 로그인할 수 없습니다.</text>
+</Language>

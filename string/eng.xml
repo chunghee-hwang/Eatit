@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="english" ID="0">
+  
+  <!--Menu Scene-->
+  <text key="app_name">Eat it!</text>
+  <text key="gameStart">Game start</text>
+  <text key="rate">Rate this game</text>
+  <text key="endGame">Quit</text>
+
+  <!--Character Scene-->
+  <text key="selectCharacter">Select the character</text>
+  <text key="characterInfo">Character Info.</text>
+  <text key="favFood">Favorite Food: </text>
+  <text key="nameIs">Name : </text>
+  <text key="dislikeFood">Dislike Food: </text>
+  <text key="inputHint">Enter name...</text>
+  <text key="gameTip">[Tip] Feed only what your animal friends like!</text>
+  <text key="gameOver">Game Over</text>
+  <text key="gameTip2">Press the character to start the game.</text>
+  <text key="kitty">Kitty</text>
+  <text key="puppy">Puppy</text>
+  <text key="piggy">Piggy</text>
+  <text key="rabbit">Leveret</text>
+  <!--Game Scene-->
+  <text key="scoreIs">Score: </text>
+  <text key="highScoreIs">High Score: </text>
+  <text key="speedUp">Level : </text>
+  <text key="gamePaused">Game Paused</text>
+  <text key="controlSettings">Control settings</text>
+  <text key="bgmOnOff">Music on/off</text>
+  <text key="goToMainMenu">Go to Main menu</text>
+  <text key="highScoreSync">Your high score has been synced.</text>
+  <text key="resetApp">Restart the app to see the leaderboard.</text>
+  <text key="internet">Please check the internet connection.</text>
+  <text key="signinFailed">Sorry, we cannot sign in the Google Play Game service now.</text>
+  
+</Language>
